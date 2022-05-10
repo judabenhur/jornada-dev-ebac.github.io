@@ -189,7 +189,7 @@ body {
 .exp-position,
 .education-subject,
 .awards-name {
-    font-size: 25px;
+    font-size: 22px;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 1px;
@@ -279,7 +279,7 @@ body {
     .exp-company-name,
     .education-school-name,
     .awards-company-name {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .exp-time-period,
@@ -291,6 +291,6 @@ body {
     .exp-position,
     .education-subject,
     .awards-name {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
